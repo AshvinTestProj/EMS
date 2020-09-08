@@ -1,0 +1,26 @@
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.deps.json
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.runtimeconfig.json
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.runtimeconfig.dev.json
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.dll
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.pdb
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.csprojResolveAssemblyReference.cache
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.csproj.CoreCompileInputs.cache
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.AssemblyInfoInputs.cache
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.AssemblyInfo.cs
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.dll
+D:\Sample Projects\C#\SampleEmployeeMVC\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.pdb
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\appsettings.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.deps.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.runtimeconfig.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.runtimeconfig.dev.json
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.dll
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\bin\Debug\netcoreapp2.0\SampleEmployeeMVC.pdb
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.AssemblyInfoInputs.cache
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.AssemblyInfo.cs
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.csproj.CoreCompileInputs.cache
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.dll
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.pdb
+D:\C Drive\Desktop\New folder (3)\Employee-Management-System-.Net-Core-MVC-Sample-Proj-master\SampleEmployeeMVC\obj\Debug\netcoreapp2.0\SampleEmployeeMVC.genruntimeconfig.cache
